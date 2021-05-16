@@ -19,6 +19,7 @@ activate
 
 # Install the dependencies
 pip install -r requirements.txt
-pip install spacy
 pip install --upgrade spacy
 python -m spacy download en_core_web_md
+python -m spacy download xx_sent_ud_sm
+pip install --upgrade spacy_langdetect

@@ -25,7 +25,7 @@ entrypoints==0.3
 fsspec==2021.4.0
 funcy==1.16
 future==0.18.2
-gensim==4.0.1
+gensim==3.8.3
 HeapDict==1.0.1
 idna==2.10
 iniconfig==1.1.1
